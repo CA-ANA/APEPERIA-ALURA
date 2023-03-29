@@ -1,2 +1,2 @@
-# APEPERIA-ALURA
-Página criada através do curso alura.
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
